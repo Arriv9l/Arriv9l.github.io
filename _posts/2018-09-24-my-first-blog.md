@@ -2,8 +2,7 @@
 layout:     post
 title:      启程，博客之路
 no-post-nav: true
-category: other
-tags: [other]
+category: life
 excerpt: "if you want to master something, explain it."
 ---
 
