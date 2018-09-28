@@ -3,6 +3,7 @@ layout:     post
 title:      启程，博客之路
 no-post-nav: true
 category: life
+tags: [life]
 excerpt: "if you want to master something, explain it."
 ---
 
@@ -18,7 +19,7 @@ excerpt: "if you want to master something, explain it."
 
 ##一次失败的搭建博客之旅
 
-本次搭建博客采用的是 GitHub Pages + Jekyll ，但是在此之前我用的其实是 hexo , 当时关注了一个微信公众号——数学的情怀，然后看到大佬有博客，就进去看了，
+本次搭建博客采用的是 GitHub Pages + Jekyll ，但是在此之前我用的其实是 hexo , 当时关注了一个微信公众号——**数学的情怀**，然后看到大佬有博客，就进去看了，
 大佬也是今年开始搭建博客的，内容虽不多，但很有意义。当时看了 
 [为什么要写博客？](https://www.hoganbin.cn/2018/04/13/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%86%99%E5%8D%9A%E5%AE%A2%EF%BC%9F/),
 感受内心蠢蠢欲动，想跟着大佬的脚步也学着去搭建博客。于是，我当时采用的也是和大佬一样的 hexo+github ，但是很尴尬，按照教程一步步去执行，
